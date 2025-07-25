@@ -1,2 +1,2 @@
-# mil-destellos
-venta de cosmeticos de belleza 
+# cariñosos
+venta de servicios y fotografias 
